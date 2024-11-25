@@ -1,5 +1,5 @@
-Hands-On Large Language Models
-Table of Contents
+# Hands-On Large Language Models
+### Table of Contents
 We advise to run all examples through Google Colab for the easiest setup. Google Colab allows you to use a T4 GPU with 16GB of VRAM for free. All examples were mainly built and tested using Google Colab, so it should be the most stable platform. However, any other cloud provider should work.
 
 ## Chapter 
